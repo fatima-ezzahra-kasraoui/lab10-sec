@@ -33,6 +33,14 @@ Process.enumerateRanges('r--'):
 
 /
 <img width="991" height="253" alt="image" src="https://github.com/user-attachments/assets/e4744b33-601d-427d-a3a3-91928ebb4b09" />
+/
+<img width="1600" height="805" alt="image" src="https://github.com/user-attachments/assets/1be1780a-af01-40c9-b697-81c38b20d39a" />
+/
+<img width="1594" height="702" alt="image" src="https://github.com/user-attachments/assets/1a018fc4-8f36-41c5-b8bd-662fbabd3bb6" />
+/
+<img width="1459" height="721" alt="image" src="https://github.com/user-attachments/assets/546256ab-c433-4dcf-be9a-1bb6570b3e5a" />
+/
+
 
 Simulation d erreur :
 
