@@ -1,14 +1,14 @@
 # lab10-sec
  
 <img width="945" height="381" alt="image" src="https://github.com/user-attachments/assets/7fdf3aff-7685-4345-b591-f9d7fe76b40e" />
-/n
+/
 
 <img width="945" height="243" alt="image" src="https://github.com/user-attachments/assets/411ab4cc-ce38-43d8-b3b4-0af6c9aaa6a4" />
-
+/
 <img width="945" height="598" alt="image" src="https://github.com/user-attachments/assets/5c87186c-c843-4adb-b02c-ac2403cea022" />
-
+/
 <img width="945" height="340" alt="image" src="https://github.com/user-attachments/assets/7aca9235-acf0-40fd-9ffc-1200283f5423" />
-
+/
 <img width="945" height="486" alt="image" src="https://github.com/user-attachments/assets/33beb2d5-01f1-4319-b757-5cc041039121" />
 
 Simulation d erreur :
