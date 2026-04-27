@@ -26,11 +26,11 @@
 Process.enumerateRanges('r--'):
 <img width="1255" height="909" alt="image" src="https://github.com/user-attachments/assets/5aa350cf-628c-41d1-907b-0a54066365aa" />
 /
-<img width="1330" height="538" alt="image" src="https://github.com/user-attachments/assets/d6c67e4b-c142-4847-8e22-2014ae0e8a99" />
+<img width="1426" height="472" alt="WhatsApp Image 2026-04-27 at 11 41 22" src="https://github.com/user-attachments/assets/cc9940e1-bc20-4bce-b4fe-20dce2518070" />
+
 /
 <img width="1600" height="647" alt="image" src="https://github.com/user-attachments/assets/f32e8a75-ccdf-43e3-817a-140e007f6ea1" />
-/
-<img width="1321" height="463" alt="image" src="https://github.com/user-attachments/assets/70f404cb-970a-41a6-a98f-6d0b38902bff" />
+
 /
 <img width="991" height="253" alt="image" src="https://github.com/user-attachments/assets/e4744b33-601d-427d-a3a3-91928ebb4b09" />
 
