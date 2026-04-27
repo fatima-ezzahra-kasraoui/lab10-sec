@@ -1,6 +1,7 @@
 # lab10-sec
  
 <img width="945" height="381" alt="image" src="https://github.com/user-attachments/assets/7fdf3aff-7685-4345-b591-f9d7fe76b40e" />
+/n
 
 <img width="945" height="243" alt="image" src="https://github.com/user-attachments/assets/411ab4cc-ce38-43d8-b3b4-0af6c9aaa6a4" />
 
