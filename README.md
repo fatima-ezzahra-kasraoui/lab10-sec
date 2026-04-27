@@ -10,6 +10,10 @@
 <img width="945" height="340" alt="image" src="https://github.com/user-attachments/assets/7aca9235-acf0-40fd-9ffc-1200283f5423" />
 /
 <img width="945" height="486" alt="image" src="https://github.com/user-attachments/assets/33beb2d5-01f1-4319-b757-5cc041039121" />
+/
+<img width="1446" height="438" alt="WhatsApp Image 2026-04-27 at 11 04 53" src="https://github.com/user-attachments/assets/fef633a4-5045-43c1-81fb-69cfba453b97" />
+/
+<img width="1381" height="601" alt="image" src="https://github.com/user-attachments/assets/236b037c-9163-4521-ba02-95314086d619" />
 
 Simulation d erreur :
 
